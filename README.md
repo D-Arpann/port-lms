@@ -33,6 +33,7 @@ Build a robust platform that meets academic requirements for:
 3.  **Run Application**:
     - **Local**: Navigate to your configured local server URL
     - **Server**: Navigate to `https://student.heraldcollege.edu.np/~np03cs4a240050/port-stu/public/index.php`
+    - **Admin**: Navigate to `https://student.heraldcollege.edu.np/~np03cs4a240050/port-stu/admin/`
 
 ## User Roles
 
@@ -119,3 +120,4 @@ The stylesheet (`assets/css/style.css`) follows a modular structure:
 
 ##  Github link:
 https://github.com/D-Arpann/FSD-FINAL-LMS/
+

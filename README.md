@@ -118,6 +118,3 @@ The stylesheet (`assets/css/style.css`) follows a modular structure:
 | `.price-text` | Price display |
 
 
-##  Github link:
-https://github.com/D-Arpann/FSD-FINAL-LMS/
-

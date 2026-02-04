@@ -117,4 +117,3 @@ The stylesheet (`assets/css/style.css`) follows a modular structure:
 | `.filter-form` | Filter form layout |
 | `.price-text` | Price display |
 
-
